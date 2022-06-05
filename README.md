@@ -1,6 +1,6 @@
-# nuxt-bootstrap-setup
+# Bridgenote Frontend Test
 
-> Bridgenote Frontend Test
+> Frontend test for bridgenote using nuxtjs 2.0.0
 
 ## Build Setup
 
